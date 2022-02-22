@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Apprentices no slaves An answer to a namelesse pamphlet lately published as an Act, declaring what habit apprentices are to wear. With an additional order forbidding their wearing of points, ribbons, and other trimmings whatsoever.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25731</idno>
+            <idno type="STC">Wing A3585A</idno>
+            <idno type="STC">ESTC R214866</idno>
+            <idno type="EEBO-CITATION">99826922</idno>
+            <idno type="PROQUEST">99826922</idno>
+            <idno type="VID">31333</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25731)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31333)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1881:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Apprentices no slaves An answer to a namelesse pamphlet lately published as an Act, declaring what habit apprentices are to wear. With an additional order forbidding their wearing of points, ribbons, and other trimmings whatsoever.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>For J. Hawkins,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1662]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption title p. 3; imprint from Wing.</note>
+                  <note>Imperfect as filmed? Title page not filmed.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Apprentices --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="answer">
+            <pb facs="tcp:31333:1"/>
+            <pb n="3" facs="tcp:31333:1" rendition="simple:additions"/>
+            <head>APPRENTICES <hi>no</hi> SLAVES. An ANSWER TO A Nameleſſe PAMPHLET Lately publiſhed as an ACT, declaring what <hi>HABIT</hi> APPRENTICES Are to wear.</head>
+            <head type="sub">With an Additional Order forbidding their wearing of Points, Ribbons, and other Trimmings whatſoever.</head>
+            <p>THE Scribler of this Pamphlet, for he is not the Author, except in ſome nonſenſical places of his own intercalation and Addition ſeems to be the Tell-Stripe Clerk of <hi>Bridewell,</hi> or the Keepers man of <hi>Little-Eaſe,</hi> who having by the cor<g ref="char:EOLhyphen"/>ruption
+<pb facs="tcp:31333:2"/>
+               <pb n="3" facs="tcp:31333:2" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:31333:3"/>ruption and Bribery of a Pot of Ale, got ſome idle Clerk to turn over ſome muſty Rolls, got theſe Moth-eaten Orders of Apparel to be tranſcribed, and then with a bold Title at Randome, not aſſigning any Time when they were Enacted by the City, ſuppoſeth (as his intention is to impoſe upon the Reader) the Pren<g ref="char:EOLhyphen"/>tices (as it is in Law) will take uncertain time for the Preſent, and buy it out of Curioſity or Indignation; and then his turn is ſerved.</p>
+            <p>The whole drift of this Libell looks very like the Story of the <hi>Gibeonites,</hi> who with mouldy bread and clouted Shooes, came to make <hi>Indentures</hi> with the <hi>Iſ<g ref="char:EOLhyphen"/>raelites,</hi> and by them were made <hi>Hewers of Wood and Drawers of Water.</hi>
+            </p>
+            <p>The manner of this Libellous deſign is a little diffe<g ref="char:EOLhyphen"/>rent from the <hi>Gibeonites,</hi> he pretends not to come a far of from antique, obſolete, and old Cuſtomes, but obtrudes theſe mad Whimſeys, as of the preſent times and newly fitted and furbiſh'd up for the next mode and faſhion, and that from no leſſe Authority then <hi>Be it Enacted,</hi> &amp;c.</p>
+            <p>But before we come to that let us conſider the Pre<g ref="char:EOLhyphen"/>face, which ſhould by cuſtome ſhew the Reaſonable<g ref="char:EOLhyphen"/>neſſe and ground of ſuch an Act. Tis this, <hi>For Re<g ref="char:EOLhyphen"/>formation</hi> of many abuſes <hi>growing by reaſon of Exceſſe,</hi> and ſtrange faſhion of Apparell uſed by many <hi>Appren<g ref="char:EOLhyphen"/>tices</hi> within the City of <hi>London</hi> and the Liberties there<g ref="char:EOLhyphen"/>of; [Good Mr. Gravity] and <hi>for ſatisfying ſuch others</hi> [mark the Wiſdome of the Law-giver] <hi>who being well diſpoſed are contented with ſuch Apparel as is fitting, and their Maſters wel;l able to afford them. Be it Enacted,</hi> &amp;c.</p>
+            <p>Sure this came out of the Oracle of the black Pot eſpecially the Hinder Part or Rump end of it; it's a
+<pb n="5" facs="tcp:31333:3" rendition="simple:additions"/>pretty doubſul and ambiguous ſentence betwixt ſenſe and Engliſh, <hi>to ſatisfie ſuch as are contented already with their Clothes.</hi> Mighty man of Reaſon! Could he find no better dreſſe of words for the Cities meaning, or was it on purpoſe to cloth their Intentions with the ſame Impertinencies and abſurdities as theſe Orders would the Apprentices. Indeed he graceth the City in the ſame manner as the odd and antick kind of Ha<g ref="char:EOLhyphen"/>bit, enjoyned in the enſuing orders, would, if re<g ref="char:EOLhyphen"/>ceived into monſtrous uſe again, out of which for Forty years laſt paſt it hath been exploded and diſmiſ<g ref="char:EOLhyphen"/>ſed.</p>
+            <p>But this <hi>Cato</hi> talks of <hi>Reformation,</hi> a dangerous word, and mainly driven on lately by Shoomakers and Taylors, and we all know what it proved. It is a max<g ref="char:EOLhyphen"/>ime of State, that even evils of Cuſtome, and which are deep rooted in the minds of men, are rather to be endured then to ſubſtitute new ones in their places, which might bring danger to the Common-wealth by the alteration of them. (Add hereto the long pre<g ref="char:EOLhyphen"/>ſcription to the contrary) and that the Reformation of the Apparel of Prentices as the caſe ſtands, may not be of as evil conſequence as may appear by ſeveral rea<g ref="char:EOLhyphen"/>ſons) we refer it to the Reader to judge. For <hi>London</hi> is no <hi>Algier,</hi> where the captive ſlaves have their ſeve<g ref="char:EOLhyphen"/>ral Badges by which they are to be known, though it may be preſumed the rigidneſſe of ſome Maſters cared not even in this City if there were Brands put upon Ser<g ref="char:EOLhyphen"/>vants as they do upon Horſes, to ſhowe their abſolute<g ref="char:EOLhyphen"/>neſs and Propriety. Nor are the Apprentices like the <hi>Helots</hi> to the <hi>Lacedemonians</hi> at the unlimited unboun<g ref="char:EOLhyphen"/>ded will of their Maſters, having no power of their
+<pb n="6" facs="tcp:31333:4"/>own, not ſo much as of the faculties of their under<g ref="char:EOLhyphen"/>ſtanding. Nor have their Parents by committing them to the care of their Maſters, wholly quitted and reſign<g ref="char:EOLhyphen"/>ed their right and Intereſt in their Children, by their Indentures. No there's no ſuch matter, they are En<g ref="char:EOLhyphen"/>gliſh men born, and cannot loſe that natural Freedom, and 'tis as abſur'd, that a municipal Franchiſement, the freedome of one City ſhould ſwallow up and annul that of the whole Nation and Kingdome, as 'tis for a ſmaller thing to contain a greater, for a <hi>Gudgeon</hi> to de<g ref="char:EOLhyphen"/>vour a <hi>Pike.</hi> Beſides this Common Liberty there are many and thoſe thouſands which can and juſtly do pre<g ref="char:EOLhyphen"/>tend to greater Priviledges by their Birth and Deſcent which as well by Cuſtome as the Courteſie of <hi>England</hi> are due to them; ſo that as to theſe perſons who as is ſaid are ſo numerous, it is impoſſible theſe Orders ſhould take effect. And the exception of them out of this yoake, will and muſt be ſtretched to thoſe who make up the lack of Gentile Fxtraction by Wealth and Eſtate, of which there is neer one third of the Prentices. This likewiſe maugre all oppoſition will fall into the Imitation of thoſe who being of as honeſt Parentage, will ambitiouſly think in ſome degree to follow the Faſhion; ſo that it will be a work of more difficulty to reduce them then a bare be it enacted.</p>
+            <p>On the contrary ſide ſee what Honour this handſom<g ref="char:EOLhyphen"/>neſſe and faſhionable of Apparel worn now by the Ap<g ref="char:EOLhyphen"/>prentices hath done to this City and the whole King<g ref="char:EOLhyphen"/>dome. [It is the happineſſe (as it was the acknowledge<g ref="char:EOLhyphen"/>ment of one of the beſt and greateſt of them) of the Kings of <hi>England</hi> that they rule not over Slaves but Subjects.] It was generally confeſſed and ſpoken by
+<pb n="7" facs="tcp:31333:4" rendition="simple:additions"/>Strangers, that the Auxiliary Regiments of <hi>London,</hi> the laſt general Training day, were the fineſt, braveſt, Sight they ever ſee, being equally mixt with terrour and delight; ſo that <hi>London</hi> which was reported to them for a Hell, ſeemed plainly to be a Heaven for Servants; and that it was no little addition to its for<g ref="char:EOLhyphen"/>mer glories.</p>
+            <p>Indeed the Buffe Doublet better becomes ſuch brave Spirits then Leather Breeches, and 'tis known to whom the City was beholding for her Safety, during all the dangers of the late Anarchy, and it would be a very ill requital to give them a Fools Cap, who never feared to expoſe their heads without Helmets for their Security.</p>
+            <p>This City is now another place then what it was for<g ref="char:EOLhyphen"/>merly, not only to the Gentility and Wealth of thoſe that are bred in it, (many perſons being ſent hither as Sir— <hi>Bollen</hi> Lord Mayor of <hi>London</hi> Anceſtor to Queen <hi>Eliz. ad Aedificandum domum Antiquam</hi> to build up and repair their antient Families) but alſo in regard of its Potency and Commerce; we deal now in our own Shops with moſt People of the World, from whom we have learned Civility with their faſhions, and there<g ref="char:EOLhyphen"/>fore 'tis fit Apprentices ſhould not be in that deſpicable Habit as to cauſe men to diſdain converſe with them, which is the only means of promoting Trade. Whereas formerly the <hi>Eaſterlins</hi> managed all the forraign buſi<g ref="char:EOLhyphen"/>neſſe, very few <hi>Engliſh</hi> Merchants being then reſident here, but were content to truck as it were under thoſe Forraigners. So that it is requiſite that to this opulen<g ref="char:EOLhyphen"/>cy there ſhould be a ſuitable bravery, and 'tis the moſt innocent (as it's a natural) pride that floweth and ari<g ref="char:EOLhyphen"/>ſeth from Plenty.</p>
+            <pb n="8" facs="tcp:31333:5"/>
+            <p>'Twould be a mad antick Sight to ſee now out Dames and Miſtreſſes in their wide Fardingales, with which they could ſcarce enter in at a Church dore, and the Apprentices in their cloſe order, in a Jack a Lents pair of Breeches, ready to run in at a Mouſe hole, inſtead of civilly becoming their Shops. And ſure the world eſpecially <hi>London,</hi> hath been frantick long enough and needs none of <hi>Tom Bedlams</hi> Guegawes for their diver<g ref="char:EOLhyphen"/>tiſement, unleſſe they will profeſſe themſelves <hi>Qua<g ref="char:EOLhyphen"/>kers,</hi> as well as they ſtifly ſay they will be <hi>P</hi>—</p>
+            <p>For the reſt of this Pedlery, it will raiſe ſo much duſt if we bruſh it, having lain ſo long by, that though it was thought fit at firſt to beat it, that it might foul no Fingers, it ſhall now rot with this Epitaph on theſe Monuments and Records of the Tyranny uſed former<g ref="char:EOLhyphen"/>ly to Apprentices, that the <hi>Kent Street Warchouſe</hi> com<g ref="char:EOLhyphen"/>pared with it is a <hi>Compleat Wardrobe.</hi>
+            </p>
+            <p>
+               <hi>In ſum, It is ſuppoſed that Pamphlet was intended to beget ſome broyl in the City, by thoſe who are reſtleſſe in their endevours againſt our preſent, and we hope, perpetual peace, which hath therefore obliged this Anſwer thereto.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:31333:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
